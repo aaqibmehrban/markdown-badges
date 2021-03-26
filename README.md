@@ -32,6 +32,7 @@ Add badges to your Profile and Projects.
     - [Blog](#blog)
     - [Other](#other)
     - [Design](#design)
+    - [Freelancing Platform](#Freelancing-Platforms)
   - [Contribution](#contribution)
   - [Contact](#contact)
   - [License](#license)
@@ -102,6 +103,22 @@ Add badges to your Profile and Projects.
 | TypeGraphQL    | <img alt="Type-graphql" src="https://img.shields.io/badge/-TypeGraphQL-%23C04392?&style=for-the-badge"/>                 | `<img alt="Type-graphql" src="https://img.shields.io/badge/-TypeGraphQL-%23C04392?&style=for-the-badge"/>`                 |
 | Ant Design    | <img alt="Ant-Design" src="https://img.shields.io/badge/-Ant%20Design-%230170FE?&style=for-the-badge&logo=ant-design&logoColor=white"/>                 | `<img alt="Ant-Design" src="https://img.shields.io/badge/-Ant%20Design-%230170FE?&style=for-the-badge&logo=ant-design&logoColor=white"/>`                 |
 | Apollo GraphQL    | <img alt="Apollo-GraphQL" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollo-graphql"/>                 | `<img alt="Apollo-GraphQL" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollo-graphql"/>`                 |
+| Selenium        | <img alt="Selenium" src="https://img.shields.io/badge/selenium%20-%2300b400.svg?&style=for-the-badge&logo=selenium&logoColor=white"/>                   | `<img alt="Selenium" src="https://img.shields.io/badge/selenium%20-%2300b400.svg?&style=for-the-badge&logo=selenium&logoColor=white"/>` |
+| Beautifulsoup        | <img alt="Beautifulsoup" src="https://img.shields.io/badge/BeautifulSoup%20-%231c4e63.svg?&style=for-the-badge&logo=BeautifulSoup&logoColor=white"/>   | `<img alt="beautifulsoup" src="https://img.shields.io/badge/BeautifulSoup%20-%231c4e63.svg?&style=for-the-badge&logo=BeautifulSoup&logoColor=white"/>` |
+| Requests        | <img alt="Requests" src="https://img.shields.io/badge/requests%20python%20-%23D3D3D3.svg?&style=for-the-badge&logo=requests%20python&logoColor=white"/>   | `<img alt="Requests" src="https://img.shields.io/badge/requests%20python%20-%23D3D3D3.svg?&style=for-the-badge&logo=requests%20python&logoColor=white"/>` |
+| Flask        | <img alt="Flask" src="https://img.shields.io/badge/flask%20-%230d7963.svg?&style=for-the-badge&logo=flask&logoColor=white"/>   | 
+`<img alt="Flask" src="https://img.shields.io/badge/flask%20-%230d7963.svg?&style=for-the-badge&logo=flask&logoColor=white"/>` |
+| Dash Plotly        | <img alt="Dash Plotly" src="https://img.shields.io/badge/dash%20plotly%20-%233d4e76.svg?&style=for-the-badge&logo=plotly&logoColor=white"/>   | `<img alt="Dash Plotly" src="https://img.shields.io/badge/dash%20plotly%20-%233d4e76.svg?&style=for-the-badge&logo=plotly&logoColor=white"/>` |
+| Flask        | <img alt="Flask" src="https://img.shields.io/badge/flask%20-%230d7963.svg?&style=for-the-badge&logo=flask&logoColor=white"/>   | 
+`<img alt="Flask" src="https://img.shields.io/badge/flask%20-%230d7963.svg?&style=for-the-badge&logo=flask&logoColor=white"/>` |
+| Matplotlib        | <img alt="Matplotlib" src="https://img.shields.io/badge/matplotlib%20-%2317527b.svg?&style=for-the-badge&logo=matplotlib&logoColor=white"/>   | 
+`<img alt="Matplotlib" src="https://img.shields.io/badge/matplotlib%20-%2317527b.svg?&style=for-the-badge&logo=matplotlib&logoColor=white"/>` |
+| Folium        | <img alt="Folium" src="https://img.shields.io/badge/folium%20-%2390ee90.svg?&style=for-the-badge&logo=folium&logoColor=white"/>   | 
+`<img alt="Folium" src="https://img.shields.io/badge/folium%20-%2390ee90.svg?&style=for-the-badge&logo=folium&logoColor=white"/>` |
+| GDAL        | <img alt="GDAL" src="https://img.shields.io/badge/gdal%20-%23000000.svg?&style=for-the-badge&logo=gdal&logoColor=white"/>   | 
+`<img alt="GDA:" src="https://img.shields.io/badge/gdal%20-%23000000.svg?&style=for-the-badge&logo=gdal&logoColor=white"/>` |
+
+
 ### Design
 | Name        | Badge                                                                                                                          | Markdown                                                                                                                         |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
@@ -109,6 +126,7 @@ Add badges to your Profile and Projects.
 | Adobe XD    | <img alt="Adobe XD" src="https://img.shields.io/badge/adobe%20xd%20-%23FF26BE.svg?&style=for-the-badge&logo=adobe%20xd&logoColor=white"/> | `<img alt="Adobe XD" src="https://img.shields.io/badge/adobe%20xd%20-%23FF26BE.svg?&style=for-the-badge&logo=adobe%20xd&logoColor=white"/>` |
 | Adobe Photoshop   | <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> | `<img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>` |
 | Adobe Illustrator | <img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobe%20illustrator%20-%23FF9A00.svg?&style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/> | `<img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobe%20illustrator%20-%23FF9A00.svg?&style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>` |
+| Adobe AfterEffects             | <img alt="Adobe AfterEffects" src="https://img.shields.io/badge/adobe%20after%20effects%20-%23cf96fd.svg?&style=for-the-badge&logo=adobe%20after%20effects&logoColor=white"/> | `<img alt="Adobe AfterEffects" src="https://img.shields.io/badge/adobe%20after%20effects%20-%23cf96fd.svg?&style=for-the-badge&logo=adobe%20after%20effects&logoColor=white` |
 | Figma | <img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/> | `<img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>` |
 | Blender | <img alt="Blender" src="https://img.shields.io/badge/blender%20-%23F5792A.svg?&style=for-the-badge&logo=blender&logoColor=white"/> | `<img alt="Blender" src="https://img.shields.io/badge/blender%20-%23F5792A.svg?&style=for-the-badge&logo=blender&logoColor=white"/>` |
 | Canva             | <img alt="Canva" src="https://img.shields.io/badge/Canva%20-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/> | `<img alt="Canva" src="https://img.shields.io/badge/Canva%20-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>` |
@@ -312,6 +330,15 @@ Add badges to your Profile and Projects.
 | Google Pay   | <img alt="Google Pay" src="https://img.shields.io/badge/Google%20Pay%20-%233780F1.svg?&style=for-the-badge&logo=Google%20Pay&logoColor=white"/> | `<img alt="Google Pay" src="https://img.shields.io/badge/Google%20Pay%20-%233780F1.svg?&style=for-the-badge&logo=Google%20Pay&logoColor=white"/>` |
 | Uber         | <img alt="Uber" src="https://img.shields.io/badge/Uber%20-%23000000.svg?&style=for-the-badge&logo=Uber&logoColor=white"/> | `<img alt="" src="https://img.shields.io/badge/Uber%20-%23000000.svg?&style=for-the-badge&logo=Uber&logoColor=white"/>` |
 | ElasticSearch    | <img alt="ElasticSearch" src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch"/>                 | `<img alt="ElasticSearch" src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch"/>`                 |
+
+### Freelancing Platforms
+| Name        | Badge                                                                                                                          | Markdown                                                                                                                         |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
+| Fiverr    | <img alt="Fiverr" src="https://img.shields.io/badge/fiverr%20-%2300b22d.svg?&style=for-the-badge&logo=fiverr&logoColor=white"/>                 | `<img alt="Fiverr" src="https://img.shields.io/badge/fiverr%20-%2300b22d.svg?&style=for-the-badge&logo=fiverr&logoColor=white"/>`                 |
+| Upwork     | <img alt="Upwork" src="https://img.shields.io/badge/upwork%20-%2373bb44.svg?&style=for-the-badge&logo=upwork&logoColor=white"/>         | `<img alt="Upwork" src="https://img.shields.io/badge/upwork%20-%2373bb44.svg?&style=for-the-badge&logo=upwork&logoColor=white"/>`         |
+
+
+
 
 
 
